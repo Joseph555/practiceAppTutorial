@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/66bc612f737950579000d51d1ab7b01a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e51079dcef39768eee15664c28226d07/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e4c5a5d1660cae75eb83f6ef463d2252/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f780ebd17fd2286b31745fe19a5a2aca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/055e5d24ac037c518d1f4581c58e752f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7fe85551591f787af025bbf4f41310c4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/134b07440852ee99e232133e11120a6b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fca50224dddac0be9ea3f30bd29ed319/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a224d0a13af8359bc8ae111354a600e3/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:5:5-29
+uses-sdk
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:5-87
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:5-87
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:5-87
+MERGED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/66bc612f737950579000d51d1ab7b01a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/66bc612f737950579000d51d1ab7b01a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e51079dcef39768eee15664c28226d07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e51079dcef39768eee15664c28226d07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e4c5a5d1660cae75eb83f6ef463d2252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e4c5a5d1660cae75eb83f6ef463d2252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f780ebd17fd2286b31745fe19a5a2aca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f780ebd17fd2286b31745fe19a5a2aca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/055e5d24ac037c518d1f4581c58e752f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/055e5d24ac037c518d1f4581c58e752f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7fe85551591f787af025bbf4f41310c4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7fe85551591f787af025bbf4f41310c4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/134b07440852ee99e232133e11120a6b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/134b07440852ee99e232133e11120a6b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fca50224dddac0be9ea3f30bd29ed319/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fca50224dddac0be9ea3f30bd29ed319/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a224d0a13af8359bc8ae111354a600e3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a224d0a13af8359bc8ae111354a600e3/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:5-87
+INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:5-87
+	tools:overrideLibrary
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:15-85
+	android:targetSdkVersion
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:5-87
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:9:5-87
+		INJECTED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:15:5-29:19
+MERGED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:11:5-22:19
+MERGED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:11:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/66bc612f737950579000d51d1ab7b01a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/66bc612f737950579000d51d1ab7b01a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e51079dcef39768eee15664c28226d07/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e51079dcef39768eee15664c28226d07/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e4c5a5d1660cae75eb83f6ef463d2252/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e4c5a5d1660cae75eb83f6ef463d2252/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f780ebd17fd2286b31745fe19a5a2aca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f780ebd17fd2286b31745fe19a5a2aca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/055e5d24ac037c518d1f4581c58e752f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/055e5d24ac037c518d1f4581c58e752f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7fe85551591f787af025bbf4f41310c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7fe85551591f787af025bbf4f41310c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/134b07440852ee99e232133e11120a6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/134b07440852ee99e232133e11120a6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fca50224dddac0be9ea3f30bd29ed319/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fca50224dddac0be9ea3f30bd29ed319/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a224d0a13af8359bc8ae111354a600e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a224d0a13af8359bc8ae111354a600e3/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:21:9-40
+activity#edu.wisc.ece.testtwooooo.MainActivity
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/josephkust/AndroidStudioProjects/testtwooooo/app/src/main/AndroidManifest.xml:26:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:12:9-21:20
+	android:grantUriPermissions
+		ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:14:13-82
+	android:exported
+		ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:17:13-20:25
+	android:resource
+		ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [com.ibm.watson.developer_cloud:android-sdk:0.4.2] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/1cf60e379e72282e5f982777e485dc3d/AndroidManifest.xml:18:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e51079dcef39768eee15664c28226d07/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e51079dcef39768eee15664c28226d07/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e4c5a5d1660cae75eb83f6ef463d2252/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e4c5a5d1660cae75eb83f6ef463d2252/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f780ebd17fd2286b31745fe19a5a2aca/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f780ebd17fd2286b31745fe19a5a2aca/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/055e5d24ac037c518d1f4581c58e752f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/055e5d24ac037c518d1f4581c58e752f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7fe85551591f787af025bbf4f41310c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7fe85551591f787af025bbf4f41310c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/134b07440852ee99e232133e11120a6b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/134b07440852ee99e232133e11120a6b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fca50224dddac0be9ea3f30bd29ed319/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fca50224dddac0be9ea3f30bd29ed319/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a224d0a13af8359bc8ae111354a600e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a224d0a13af8359bc8ae111354a600e3/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5d1a5047b12fda14f7a539e2d5b16ab2/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/josephkust/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08fd5b5e10791a0cbc85713bb1cab513/AndroidManifest.xml:26:13-58
